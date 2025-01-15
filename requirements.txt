@@ -1,5 +1,7 @@
 transformers==4.48.0
 torch
 pillow
-pdf2image
-streamlit 
+streamlit
+protobuf
+pytesseract
+pdf2image 
