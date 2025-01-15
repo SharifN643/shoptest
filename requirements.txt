@@ -1,0 +1,5 @@
+transformers==4.48.0
+torch
+pillow
+pdf2image
+streamlit 
